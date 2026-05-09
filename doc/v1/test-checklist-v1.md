@@ -7,7 +7,7 @@
 | 文档类型 | 学习版骨架模板 |
 | 当前版本 | 0.1 |
 | 更新时间 | 2026年5月7日 |
-| 上游输入 | [prd-ai.md](./prd-ai.md)、[tech-design-v1.md](./tech-design-v1.md) |
+| 上游输入 | [prd-v1.md](./prd-v1.md)、[tech-design-v1.md](./tech-design-v1.md) |
 | 说明 | 用来模拟测试与验收视角，只保留骨架与简单示例 |
 
 ---
